@@ -1,4 +1,4 @@
-<img width="1860" height="843" alt="Screenshot 2025-12-11 205352" src="https://github.com/user-attachments/assets/52730856-5041-4801-8873-125ee360d4a6" /># Ex04 Places Around Me
+
 ## Date: 11.12.2025
 ## Ref no: 25018987
 
@@ -39,19 +39,23 @@ Execute the programs and publish them.
 </map>
 ~~~
 factory.html
+~~~
 <!DOCTYPE html>
 <html>
     <body>
         <img src ="cement.png" alt ="palanipet".
     </body>
 </html>
+~~~
 junction.html
+~~~
 <!DOCTYPE html>
 <html>
     <body>
         <img src="junction.png" alt ="gym">
     </body>
 </html>
+~~~
 
 ## OUTPUT
 
